@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "35434760799",
+    "project_id": "motojobpac",
+    "storage_bucket": "motojobpac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35434760799:android:edcfee8bbfcfeb151ae9ea",
+        "android_client_info": {
+          "package_name": "com.mycompany.aigen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35434760799-sflu7dhhlrfavpa0qgflme2u7em50glv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdyr-G-szLJMctTORcCWeRyQ2rtM-LZk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35434760799-sflu7dhhlrfavpa0qgflme2u7em50glv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35434760799-s29ad71557n1mvn09dceeietrmbnf3v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.aigen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
